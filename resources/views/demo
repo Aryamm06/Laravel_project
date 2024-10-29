@@ -1,0 +1,29 @@
+<div class='container my-5'>
+                <div class='row'>
+                    <div class='col-lg-6 d-flex justify-content-center d-none d-lg-flex'>
+                        <img src="{{ asset('img/abtgirl.png') }}" class='img-fluid w-50' alt="about img" style="padding-top:5%; />
+                    </div>
+                    <div class='col-lg-6 d-flex flex-column align-items-center justify-content-center'>
+                        <h2 class='fs-1 mb-5 text-uppercase fw-bold'>About Pekka</h2>
+                        <h2 style="color: rgb(30, 189, 30);">Key to Beautiful You</h2> 
+                    
+                        <p class='mb-5'>
+                        The world has always admired Indian women for their beauty. 
+                    Nowhere else is beauty honored and worshipped more than in India. 
+                    The ancient skills of beauty and skin care passed on through centuries, 
+                    stressed on pure natural and organic ingredients to highlight the beauty of women. 
+                    Our traditional beauty creams and treatments are based on Ayurvedic principles and the use of organic formulations ensure health and enhance the beauty of the woman.
+                     Now, La bliss is using the same ancient skills and the latest technology by blending them together to deliver amazing results at your doorstep in Hyderabad. 
+                     We are committed to delivering the best personalized treatments for you and offer a wide range of services to enable you to look and feel your beautiful best.
+                      Once you visit La bliss and avail our exclusive services,
+                     you will enjoy the compliments and envious looks of others.Our traditional beauty creams and treatments are based on Ayurvedic principles and the use of organic formulations ensure health and enhance the beauty of the woman.
+                     Now, La bliss is using the same ancient skills and the latest technology by blending them together to deliver amazing results at your doorstep in Hyderabad.
+                        </p>
+                        
+                    </div>
+                </div>
+            </div>
+
+
+
+            
