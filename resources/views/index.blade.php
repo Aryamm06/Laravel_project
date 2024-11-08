@@ -48,7 +48,7 @@
             </h2>
         <P id="p">The world has always admired Indian women for their beauty. </P>
         <P> Nowhere else is beauty honored and worshipped more than in India.</P>
-        <a href="aboutus.html" style="text-decoration: none;">
+        <a href='about' style="text-decoration: none;">
         <button type="click" class="btn  mx-auto d-block " style=" background-color: green; color: aliceblue;">know More </button></a>
 </div>
 

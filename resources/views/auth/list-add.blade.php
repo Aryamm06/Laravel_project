@@ -39,7 +39,7 @@
         </div>
         <div class="navbar-menu-wrapper d-flex align-items-center">
           <ul class="navbar-nav">
-            <li class="nav-item font-weight-semibold d-none d-lg-block">Help : +91 Lucky </li>
+            <li class="nav-item font-weight-semibold d-none d-lg-block">Help : +91 9587456987 </li>
           </ul>
 
           <ul class="navbar-nav ml-auto">

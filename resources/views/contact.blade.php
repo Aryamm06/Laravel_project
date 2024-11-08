@@ -87,7 +87,7 @@ background-image: url('img/Untitled-1.png');
              
                          <div class="form-group">
                              <label style=" color: white;font-size: 20px"> MobileNo</label>
-                             <input type="text" class="form-control" name="Number" placeholder="Your name" style="width: 60%; 
+                             <input type="number" class="form-control" name="Number" placeholder="Your name" style="width: 60%; 
                               background-color: rgba(0, 0, 0, 0.5) ; color: white;">
                          
                          </div>
@@ -105,14 +105,7 @@ background-image: url('img/Untitled-1.png');
                     
                         </form> 
                         <?php
-// if(isset($_GET['s_msg']))
-// {
-//    echo '<label style="color:red;margin-left:30px;margin-top:30px;">submitted not successfully</label>';
-// }
-// if(isset($_GET['f_msg']))
-// {
-//    echo '<label style="color:orange;margin-left:30px;margin-top:30px;">submitted successfully</label>';
-// }
+
 
 ?>
 </div>

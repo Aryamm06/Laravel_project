@@ -28,29 +28,29 @@
             
            <span style="font-size: 15px;" >
             <i class='fa fa-angle-right' style="color: green;"></i>
-                 <a href="index.php"  style="text-decoration: none; color: rgb(211, 209, 206);" >Home</a>
+                 <a href="/"  style="text-decoration: none; color: rgb(211, 209, 206);" >Home</a>
                 </span><br> 
 
             <span style="font-size: 15px;">
                 <i class='fa fa-angle-right' style="color: green;"></i>
-                <a href="aboutus.php"  style="text-decoration: none;color: rgb(211, 209, 206);">About Us</a>
+                <a href='about' style="text-decoration: none;color: rgb(211, 209, 206);">About Us</a>
                 </span><br>
                 
                    
             <span style="font-size: 15px;">
                         <i class='fa fa-angle-right' style="color: green;"></i>
-                        <a href="gallery.php" style="text-decoration: none;color: rgb(211, 209, 206);">Gallery</a>
+                        <a href='gallery' style="text-decoration: none;color: rgb(211, 209, 206);">Gallery</a>
                         </span><br>
 
                         
             <span style="font-size: 15px;">
                         <i class='fa fa-angle-right' style="color: green;"></i>
-                        <a href="services.php"  style="text-decoration: none;color: rgb(211, 209, 206);">Services</a>
+                        <a href='services'  style="text-decoration: none;color: rgb(211, 209, 206);">Services</a>
                         </span><br>
 
             <span style="font-size: 15px;" >
                             <i class='fa fa-angle-right' style="color: green;"></i>
-                            <a href="contact.php"  style="text-decoration: none;color: rgb(211, 209, 206);">Contact Us</a>
+                            <a href='con'  style="text-decoration: none;color: rgb(211, 209, 206);">Contact Us</a>
                             </span><br>
 
         </div>
@@ -61,29 +61,29 @@
             
             <span style="font-size: 15px;" >
              <i class='fa fa-angle-right' style="color: green;"></i>
-                  <a href="#"  style="text-decoration: none; color: rgb(211, 209, 206);" >Skin Fitness</a>
+                  <a href='services'  style="text-decoration: none; color: rgb(211, 209, 206);" >Skin Fitness</a>
                  </span><br>
  
             <span style="font-size: 15px;">
                  <i class='fa fa-angle-right' style="color: green;"></i>
-                 <a href="About Us"  style="text-decoration: none;color: rgb(211, 209, 206);">Hair Care</a>
+                 <a href='services' style="text-decoration: none;color: rgb(211, 209, 206);">Hair Care</a>
                  </span><br>
                  
                     
              <span style="font-size: 15px;">
                          <i class='fa fa-angle-right' style="color: green;"></i>
-                         <a href="#" style="text-decoration: none;color: rgb(211, 209, 206);">Body Waxing</a>
+                         <a href='services' style="text-decoration: none;color: rgb(211, 209, 206);">Body Waxing</a>
                          </span><br>
  
                          
             <span style="font-size: 15px;">
                          <i class='fa fa-angle-right' style="color: green;"></i>
-                         <a href="#"  style="text-decoration: none;color: rgb(211, 209, 206);">Makeup's & Make Overs</a>
+                         <a href='services'  style="text-decoration: none;color: rgb(211, 209, 206);">Makeup's & Make Overs</a>
                          </span><br>
  
             <span style="font-size: 15px;" >
                              <i class='fa fa-angle-right' style="color: green;"></i>
-                             <a href="#"  style="text-decoration: none;color: rgb(211, 209, 206);">Manicures & pedicures</a>
+                             <a href='services' style="text-decoration: none;color: rgb(211, 209, 206);">Manicures & pedicures</a>
                              </span><br>
  
          </div>
