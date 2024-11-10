@@ -214,9 +214,10 @@
 	</style>
 	<tr>
 		 <td>Id</td>
-		 <td>Image</td>
+		
 		 <td>Title</td>
 		 <td>Description</td>
+     <td>Image</td>
 		 <td colspan="2">Action</td>
     </tr>
     @foreach($services as $item)
